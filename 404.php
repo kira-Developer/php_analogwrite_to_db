@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;900&display=swap" rel="stylesheet">
@@ -13,3 +14,4 @@
       </div>
 </body>
 </html>
+
